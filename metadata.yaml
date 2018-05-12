@@ -1,0 +1,31 @@
+_repo: Wildflowers-of-the-Farm_13347
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13347-h/images/coverm.jpg
+creator:
+  author:
+    agent_name: Cooke, Arthur O. (Arthur Owens)
+    alias: Cooke, Arthur Owens
+    birthdate: 1867
+    deathdate: 1930
+    gutenberg_agent_id: '5014'
+    url: http://www.gutenberg.org/2009/agents/5014
+description: ''
+gutenberg_bookshelf:
+- Horticulture
+- Children's Instructional Books
+- Botany
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13347'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wild flowers -- Great Britain'
+- !lcc 'QK'
+title: Wildflowers of the Farm
+url: http://www.gutenberg.org/ebooks/13347
